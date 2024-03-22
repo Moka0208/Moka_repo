@@ -9,4 +9,3 @@ print('Hello World!')
 
 x = 10
 
-print('I dont like finals')
